@@ -29,7 +29,7 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 * The youngest user (if available)
 * The most common birth year amongst users (if available)
 
-Finally, the user is prompted with the choice of restarting the program or not.
+Finally, the user is prompted with the choice of restarting the program or not. If you don't want to restart click on 'No'
 
 # Requirements
 
@@ -56,7 +56,6 @@ Finally, the user is prompted with the choice of restarting the program or not.
  * [Vandana Jaiswal](https://github.com/Vandajai/pdsnd_github.git) - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
 
 # Acknowledgements
-
 
 * [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
 * [Udacity](https://udacity.com) - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
