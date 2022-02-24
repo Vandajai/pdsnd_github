@@ -1,5 +1,4 @@
-# Basic Data Exploration with pandas on Bikeshare Data
-_A Python project using pandas to explore bikeshare data._
+# A Python project using pandas to explore bikeshare data.
 
 # Project Overview
 
