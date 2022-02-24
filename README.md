@@ -58,3 +58,5 @@ Finally, the user is prompted with the choice of restarting the program or not. 
 
 * [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
 * [Udacity](https://udacity.com) - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
+* [Stakeoverflow] (https://stackoverflow.com/questions/21323692/convert-seconds-to-weeks-days-hours-minutes-seconds-in-python)- it was helpful in solving the calculation.
+* [Programiz] (https://www.programiz.com/python-programming/methods/string/rjust) - it was helpful to understand the basics.
